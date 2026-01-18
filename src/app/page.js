@@ -39,6 +39,27 @@ export default function Home() {
         </div>
       </section>
 
+      {/* ========== SECTION 1.5: PROMOTIONAL BANNER ========== */}
+      <section className="bg-gradient-to-r from-amber-400 via-orange-400 to-red-500 text-white py-6 sm:py-8 md:py-10">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex flex-col sm:flex-row items-center justify-between gap-4 sm:gap-6">
+            <div className="flex items-center gap-3 text-center sm:text-left">
+              <span className="text-3xl sm:text-4xl">🎉</span>
+              <div>
+                <h3 className="text-lg sm:text-xl font-bold">Limited Time Offer!</h3>
+                <p className="text-sm sm:text-base text-white opacity-90">Get 30% off on your first purchase</p>
+              </div>
+            </div>
+            <Link
+              href="/items"
+              className="bg-white text-orange-600 px-6 sm:px-8 py-2 sm:py-3 rounded-full font-bold hover:bg-gray-100 transition whitespace-nowrap text-sm sm:text-base"
+            >
+              Shop Now
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* ========== SECTION 2: FEATURES ========== */}
       <section className="py-16 sm:py-20 md:py-24 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
