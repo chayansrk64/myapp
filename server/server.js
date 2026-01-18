@@ -21,7 +21,7 @@ let items = [
     description: 'High-performance laptop for professionals',
     longDescription: 'This premium laptop is equipped with the latest processors and high-resolution display, perfect for professional work, gaming, and content creation.',
     price: 999.99,
-    image: 'https://via.placeholder.com/300x200?text=Laptop',
+    image: 'https://png.pngtree.com/png-vector/20250522/ourmid/pngtree-modern-laptop-computer-with-screen-open-technology-digital-device-png-image_16345445.png',
     category: 'electronics',
     stock: 5,
     specs: {
@@ -37,7 +37,7 @@ let items = [
     description: 'Ergonomic wireless mouse with long battery life',
     longDescription: 'Comfortable ergonomic design reduces wrist strain. Features advanced optical tracking and can connect to up to 3 devices simultaneously.',
     price: 29.99,
-    image: 'https://via.placeholder.com/300x200?text=Mouse',
+    image: 'https://t3.ftcdn.net/jpg/06/11/67/78/360_F_611677850_HguXRoZYQWu7ekpl1MWxMTiSY4kKTmPT.jpg',
     category: 'electronics',
     stock: 15,
     specs: {
@@ -53,7 +53,7 @@ let items = [
     description: 'Durable fast-charging USB-C cable',
     longDescription: 'High-quality USB-C cable supports fast charging and data transfer. Compatible with most modern devices.',
     price: 14.99,
-    image: 'https://via.placeholder.com/300x200?text=USB+Cable',
+    image: 'https://static.vecteezy.com/system/resources/thumbnails/072/443/075/small/high-quality-durable-usb-to-usb-c-charging-cable-for-all-your-devices-photo.jpg',
     category: 'accessories',
     stock: 50,
     specs: {
@@ -68,7 +68,7 @@ let items = [
     description: 'RGB mechanical keyboard with custom switches',
     longDescription: 'Professional-grade mechanical keyboard with customizable RGB backlighting. Features custom mechanical switches for optimal typing experience.',
     price: 159.99,
-    image: 'https://via.placeholder.com/300x200?text=Keyboard',
+    image: 'https://images.indianexpress.com/2021/06/Corsair-Mechanical-Keyboard.jpg',
     category: 'electronics',
     stock: 8,
     specs: {
@@ -84,7 +84,7 @@ let items = [
     description: 'Adjustable monitor stand for better ergonomics',
     longDescription: 'Heavy-duty monitor stand with height and angle adjustment. Improves posture and viewing angle.',
     price: 49.99,
-    image: 'https://via.placeholder.com/300x200?text=Monitor+Stand',
+    image: 'https://image.springbeetle.com/cdn-cgi/image/dpr=1,format=webp/https://staticprod.site.flexispot.com/dev/trantor/attachments/800_F7.jpg',
     category: 'accessories',
     stock: 12,
     specs: {
@@ -99,7 +99,7 @@ let items = [
     description: '4K webcam for streaming and video calls',
     longDescription: 'Professional 4K webcam with wide-angle lens and built-in microphone. Perfect for content creators and remote professionals.',
     price: 79.99,
-    image: 'https://via.placeholder.com/300x200?text=Webcam',
+    image: 'https://media.istockphoto.com/id/674322530/photo/webcam-3d-rendering-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=FuIl2RKv385PSVynrDEgonl9ZCNj5Llibs77uYk9KPI=',
     category: 'electronics',
     stock: 7,
     specs: {
